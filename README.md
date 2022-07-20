@@ -1,32 +1,26 @@
-# Hey there 👋 , I'm ֆɦǟʀʍǟ ɢ ⁪⁬⁮⁮⁮⁮ ‌‌‌‌
--<b> Just a begginner, learning stuffs about custom roms and development.
- 
-<h2 align="center"><img src="https://komarev.com/ghpvc/?username=SharmagRit&label=Sharma%20G%27s%20Profile%20Views&color=red" alt="Sharma G"/></h>
-  
-![Sharma G GitHub stats](https://github-readme-stats.vercel.app/api?username=SharmagRit&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SharmagRit&theme=neon-palenight&hide_border=true)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SharmagRit&data=followers,repositories,stars,commits)](https://github.com/SharmagRit/github-widgetbox)
 
-# 🤔 What I'm Maintaining Officially:
-- riceDroid, ProjectBlaze, CrDroid, ProjectArcana & Colt-OS for Poco X2(phoenix) & Poco X4 Pro 5G
+  
+ 👀 I’m interested in building custom rom, maintaining official roms like riceDroid, ProjectBlaze & crDroid for my Poco X4 Pro 5G & Poco X2
+  <br/>
  
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+ 📫 How to reach me [TG: @SharmagRit]
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+currently+learning+java)](https://git.io/typing-svg)
+
 </div>
- 
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SharmagRit" alt="SharmagRit" /></a> </p>
 
- <h2 align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31vtjyti5ctizjdp7y24355rbhry" alt="Spotify Now Playing" width="500"/>
+[![SharmaG's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharmagRit)](https://github.com/SharmagRit/github-readme-stats&count_private=true&show_icons=true)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SharmagRit)](https://git.io/streak-stats)
 
-## 📫 Get in touch or Support my work, just press the icon below:
- <p align="left">
- <a href="https://t.me/Sharma_G04">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+<br/>
 
- 
- <p align="left"><a href="https://paypal.me/sharmag04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/paypal.svg" alt="Sharma G" height="50" width="40" /></a>
-  
- <h1 align="center"><img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif"></p>
-  
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
-</h1>
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<br/>
+
+## skills:
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+
+<br/>
