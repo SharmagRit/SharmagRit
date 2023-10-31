@@ -1,17 +1,12 @@
-### Hi there 👋
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm ̲S̲̲h̲a̲̲r̲̲m̲a̲̲g̲̲R̲̲i̲̲t̲😎⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁮⁮⁮ ‌
--<b> Just a begginner.
+-<b>
  
 <h2 align="center"><img src="https://komarev.com/ghpvc/?username=SharmagRit&label=Sharma%20G%27s%20Profile%20Views&color=red" alt="Տհɑɾʍɑ ց"/></h>
-  
-![Տհɑɾʍɑ ց GitHub stats](https://github-readme-stats.vercel.app/api?username=SharmagRit&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharmagRit&show_icons=true&count_private=true&theme=tokyonight)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SharmagRit&theme=neon-palenight&hide_border=true)
 
-# 🤔 What I'm Maintaining Officially:
- 
-## RisingOSS support group for **[Poco F5 5G](https://t.me/marble_builds)** 
- 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
